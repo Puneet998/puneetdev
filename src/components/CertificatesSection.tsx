@@ -4,7 +4,7 @@ import { useRef, useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, ExternalLink, Award, X } from "lucide-react";
 
 const certificates = [
-  { name: "Full Stack Web Development Using MERN Stack", platform: "NIELIT Lucknow", issuer: "Ministry of Electronics and Information Technology", image: "./../../public/cert1.png", color: "from-blue-500/20 to-cyan-500/20" },
+  { name: "Full Stack Web Development Using MERN Stack", platform: "NIELIT Lucknow", issuer: "Ministry of Electronics and Information Technology", image: "./../../cert1.png", color: "from-blue-500/20 to-cyan-500/20" },
   { name: "React Complete Guide", platform: "Udemy", issuer: "Academind", image: "/certificates/react.jpg", color: "from-cyan-500/20 to-blue-500/20" },
   { name: "JavaScript Algorithms", platform: "freeCodeCamp", issuer: "freeCodeCamp", image: "/certificates/js.jpg", color: "from-yellow-500/20 to-orange-500/20" },
   { name: "Node.js Developer", platform: "Udemy", issuer: "Andrew Mead", image: "/certificates/node.jpg", color: "from-green-500/20 to-emerald-500/20" },
