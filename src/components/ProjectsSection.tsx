@@ -165,7 +165,7 @@ const projects = [
     tech: ['EJS', 'Node.js', 'MongoDB', 'Express'],
     liveUrl: 'https://wanderlust-2zwy.onrender.com/listings',
     githubUrl: 'https://github.com/Puneet998/Wanderlust',
-    image: '../../public/image_wanderlust.png',
+    image: '../../image_wanderlust.png',
   },
   {
     title: 'Task Management App',
@@ -174,7 +174,7 @@ const projects = [
     tech: ['Next.js', 'JavaScript', 'Tailwind CSS', 'MongoDB'],
     liveUrl: '#',
     githubUrl: 'https://github.com/Puneet998/task-manager',
-    image: '../../public/image_tm.png',
+    image: '../../image_tm.png',
 
   },
   {
@@ -184,7 +184,7 @@ const projects = [
     tech: ['React', 'OpenWeather API', 'Material-UI'],
     liveUrl: '#',
     githubUrl: 'https://github.com/Puneet998/weather-web-app',
-    image: '../../public/image_wheater.png',
+    image: '../../image_wheater.png',
   },
   {
     title: 'Video confrencing application',
@@ -193,7 +193,7 @@ const projects = [
     tech: ['React', 'Node.js', 'Socket.io', 'WebRTC','Express js','MongoDB'],
     liveUrl: '#',
     githubUrl: '#',
-    image: '../../public/image_video.png',
+    image: '../../image_video.png',
   },
   
 ];
