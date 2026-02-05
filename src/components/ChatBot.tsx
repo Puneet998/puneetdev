@@ -33,7 +33,7 @@ const getAIResponse = (userMessage: string): string => {
     return "Puneet has built several projects including an E-Commerce Platform, Task Management App, Weather Dashboard, and more. Each project demonstrates his full-stack capabilities and modern UI/UX design skills. Check out the Projects section for details! 💻";
   }
   
-  if (message.includes('contact') || message.includes('reach') || message.includes('hire')) {
+  if (message.includes('contact') ||message.includes('connect')|| message.includes('reach') || message.includes('hire')) {
     return "You can reach Puneet via the contact form on this page, or connect through GitHub and LinkedIn. He's currently open to internship opportunities and collaborative projects! 📧";
   }
   
