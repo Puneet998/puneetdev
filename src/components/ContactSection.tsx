@@ -84,6 +84,7 @@ const ContactSection = () => {
     { icon: Github, href: 'https://github.com/Puneet998', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/puneetprajapati9936/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:puneetprajapati9936@gmail.com', label: 'Email' },
+{ icon: Phone, href: 'tel:+919936344869', label: 'Call' },
 
   ];
 
