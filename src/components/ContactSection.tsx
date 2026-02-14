@@ -174,7 +174,7 @@ const ContactSection = () => {
               {/* { */}
               <a
                   key="whatsapp"
-                  href="https://wa.me/919936344869"
+                  href="https://wa.me/919936344869?text=Hello%20Puneet,%20I%20visited%20on%20your%20portfolio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-xl glass-card flex items-center justify-center hover:bg-primary/10 hover:border-primary/30 transition-all group"
