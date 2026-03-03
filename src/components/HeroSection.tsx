@@ -113,7 +113,7 @@ const HeroSection = () => {
             <a
               // href="./../../public/puneetResume.pdf"
               target="_blank"
-              href="https://drive.google.com/file/d/1PMJ5ZYyRQ63M56lpGqmWDO8uEJ7YnGNy/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1GBB1hvqyALh7e1meCi1SKbB86BRSPH1y/view?usp=drive_link"
 
               download="Puneet_resume.pdf"
               className="relative overflow-hidden group px-6 py-3 rounded-xl border border-primary text-primary font-medium flex items-center gap-2 transition-colors"
